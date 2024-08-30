@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bullet\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rSide\ bL\ bR
+comment1.target=Bullet(boolean,\ java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=p
+comment2.target=void\ fire(Paddle)
+comment3.params=g\ bullets
+comment3.target=void\ move(java.awt.Graphics,\ java.util.ArrayList)
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=b\ bullets
+comment5.target=void\ collidesWith(Brick,\ java.util.ArrayList)
+numComments=6

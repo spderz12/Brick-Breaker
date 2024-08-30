@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ammo
+comment1.params=b
+comment1.target=Ammo(Brick)
+comment2.params=g
+comment2.target=void\ move(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=p\ ammo\ bR\ bL
+comment4.target=void\ collidesWith(Paddle,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList)
+numComments=5

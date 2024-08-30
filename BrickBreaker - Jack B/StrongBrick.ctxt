@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StrongBrick
+comment1.params=x\ y\ width\ height
+comment1.target=StrongBrick(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ strong()
+comment3.params=b\ ammo
+comment3.target=void\ hit(Ball,\ java.util.ArrayList)
+comment4.params=b
+comment4.target=void\ hit(Bullet)
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+numComments=6
